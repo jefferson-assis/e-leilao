@@ -9,4 +9,5 @@ Me contate pelo Twitter: @davisko_
 Abaixo as fontes usadas para aprender sobre o framework:
 
 https://br.vuejs.org/v2/guide/
+
 https://www.guiacodigo.com/curso/23/introducao-ao-vuejs-2
