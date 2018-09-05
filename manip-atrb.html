@@ -10,7 +10,6 @@
     <body>
         <!-- Manipular atributos nativos do HTML com v-bind -->
         <div id="app">
-            {{ msg }}
             <p v-bind:title="titulo">Teste com Title</p>
         </div>
         
@@ -18,7 +17,6 @@
             var app = new Vue({
                 el:"#app",
                 data:{
-                    msg: 'Hello World!',
                     titulo: "Teste com v-bind"
                 }
             });
