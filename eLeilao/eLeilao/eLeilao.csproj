@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Appraiser test.cs" />
     <Compile Include="Auction.cs" />
     <Compile Include="Evaluator.cs" />
     <Compile Include="Offer.cs" />
